@@ -1,4 +1,4 @@
-# JSON_File_using_PHP_MySQL
+# Upload_JSON_File_using_PHP_MySQL
 
 1 Registration form using encryption method password_hash 
 2 Login by verifying password_verify method
